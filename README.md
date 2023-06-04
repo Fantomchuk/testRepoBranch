@@ -3,3 +3,4 @@
 Kto jest komiterem?
 
 ja repo1.
+ja repo2.
